@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on"
+  }
+}
